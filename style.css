@@ -1,0 +1,43 @@
+body{
+    font-family: 'Lemonada', cursive , sans-serif;
+}
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+  box-shadow:5px 5px 5px grey;
+}
+.heading_div
+{
+  float: none ; 
+  background: white ; 
+  padding: 10px; 
+  border-radius: 20px; 
+  color: black;
+  box-shadow:5px 5px 5px grey;
+}
+.result_para_tag{
+    font-size: large;
+    box-shadow: 5px 5px 5px grey;
+}
+.footer{
+    position: fixed;
+    color: white;
+    background-color: grey;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    font-size: large;
+}
+
+span{
+  color: white;
+  font-size: bold;
+}
+
+i{
+  color: white;
+  font-size: 24;
+}
